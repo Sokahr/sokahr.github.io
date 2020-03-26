@@ -1,0 +1,171 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Benjamin Peter
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ben61279@gmail.com
+    phone: +49 175 20 840 81
+    website: sokahr.github.io #do not add http://
+    linkedin: benjamin-peter-a81026123
+    github: Sokahr
+    gitlab:
+    bitbucket:
+    twitter: '@Ben61279Peter'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: German
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Marathon
+        link:
+
+      - item: Surfing
+        link:
+
+      - item: Gardnering
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      After my diploma in Computer Science, I worked as a Flash developer, created Frontends in ActionaScript and later
+      on in Flex. Since Flash went practically out of buisness I transitioned first to a Java backend developer and then
+      to a full stack developer.
+      I worked for many StartUps and mostly small buisnesses. Experienced a variety of project and team management styles.
+education:
+    - degree: Diploma in Computer Science
+      university: University of Applied Science Flensburg
+      time: 2002 - 2007
+      details:
+experiences:
+    - role: Full stack Developer
+      time: Aug. 2018 - Present
+      company: Metronom GmbH, Berlin
+      details: |
+        Developing inhouse products for Metro AG. Main Project is a customer support solution to provide a solution
+        to enable the callcenter to delegate the customers problems as quickly as possible.
+        Workeds in a agile team trying out Scrumban, Scrum and Kanban.
+
+        Using the following technologies:
+        - Frontend with React in TypeScript
+        - Backend microservices developed with Java and using Spring.
+        - Some services in Python
+        - Daterbases in use: Cassandra and Solr
+        - Jenkins as containerrized CI
+        - Kubernetes with Docker Containers
+    - role: Software Engineer Java/J2EE
+      time: Mai 2017 - Aug. 2018
+      company: Gai Netconsult GmbH, Berlin
+      details: |
+        Development of software solutions for Healthcare buisnesses. Working with JBoss, Oracle DB,
+        JSF with Primeface, Liquibase and Maven.
+        My responsibilities were:
+          - Conzeption, realisation and integration of components and applications with JavaEE and web-technologies in an agile team.
+          - Usage of methods like continuous integration, clean code and test driven development.
+          - Creation of requirement and feasibilty analysis in a strong exchange with the Customer
+          - integration into existing customers infrastructure
+    - role: Programmerr
+      time: Mar. 2013 - Feb 2017
+      company: JuweloTV Deutschland GmbH, Berlin
+      details: |
+        Juwelo is a broadcasting company selling jewellery over television and internet.
+        My core tasks were:
+          - Creation of a new frontend applications in ActionsScript for internal processes
+          - Support and extend of legacy code
+          - management and automation of releases.
+    - role: Developer
+      time: Jan. 2011 - Feb. 2013
+      company: Silver Style Studios GmbH, Berlin
+      details: |
+        Silver Style Studios created and run an MMORPG called "Herokon-Online" with a Flash frontend.
+        My core tasks were:
+          - Developing the game-client in Flex 4.7
+          - Developing the game-services in Java
+          - Extend and taking care of the MySQL database
+    - role: Flash/Flex Developer
+      time: Feb. 2009 - Dec. 2010
+      company: cobra youth communication GmbH, Berlin
+      details: |
+        Cobra youth communication was a marketing company specialised in advertisement for kids and teens.
+        When I was working for them there was a cooperation with a company called bettermarks which developed a
+        online math learning plattform.
+        I worked on the following projects:
+          - Creation of a Flex-client for bettermarks.de
+          - Realisation and redesign of the JetFriend website for Lufthansa
+          - Working on a 3d-chatworld and a chat-admin-client
+    - role: Flash-Developer
+      time: Apr. 2008 - Feb. 2009
+      company: eWave Interactive GmbH, Potsdam
+      details: |
+        EWave produced a prototype for a multiplatform community.
+        My core tasks were:
+          - Developing of a game-community site
+          - Developing a user client in ActionScript 3.0
+          - Create and test of UI-components
+          - connect the client with a server-interface
+          - Qualityassurance of own and others creations
+    - role: Developer (Intern)
+      time: Aug. 2006 - Sep. 2007
+      company: Elocom Mobile Entertainment GmbH, Schlederhausen
+      details: |
+        Elocom was a company owned by Jamba and developed mobile Games for J2ME, Windows, Blackberry, Symbian and
+        Brew supported phones.
+        I was a intern and created my diploma thesis while working for Elocom.
+        My work there includes:
+          - creation of the mobile game "Magnum P.I."
+          - optimising graphics for mobile use.
+          - technical conception of the mobile game "E.T. Der Ausserirdische"
+    - role: Level-scripting (Intern)
+      time: Apr. 2004 - Sep. 2004
+      company: Silverstyle-Entertainment e.K., Berlin
+      details: |
+        I helped to create levels for the PC game "The Fall - Last days of Gaia"
+        My core tasks were:
+          - Realisation of level-concepts in Python
+          - Checking of levels for errors and consistency
+
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java & Spring
+        level: 90%
+
+      - name: Javascript & TypeScript
+        level: 80%
+
+      - name: Python
+        level: 50%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: Gradle
+        level: 60%
+
+      - name: Jenkins
+        level: 60%
+
+      - name: Kubernetes
+        level: 70%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
