@@ -47,6 +47,7 @@ career-profile:
       After my diploma in Computer Science, I worked as a Flash developer, created Frontends in ActionaScript and later
       on in Flex. Since Flash went practically out of buisness I transitioned first to a Java backend developer and then
       to a full stack developer.
+
       I worked for many StartUps and mostly small buisnesses. Experienced a variety of project and team management styles.
 education:
     - degree: Diploma in Computer Science
@@ -58,46 +59,61 @@ experiences:
       time: Aug. 2018 - Present
       company: Metronom GmbH, Berlin
       details: |
-        Developing inhouse products for Metro AG. Main Project is a customer support solution to provide a solution
-        to enable the callcenter to delegate the customers problems as quickly as possible.
-        Workeds in a agile team trying out Scrumban, Scrum and Kanban.
+        Developing inhouse products for Metro AG.
+
+        Most of the time I work for a project to create a customer support solution. Providing callcenter agents with
+        enough information to quickly delegate the customers problems.
+
+        Working in an agile team trying out Scrumban, Scrum and Kanban.
 
         Using the following technologies:
         - Frontend with React in TypeScript
         - Backend microservices developed with Java and using Spring.
         - Some services in Python
-        - Daterbases in use: Cassandra and Solr
-        - Jenkins as containerrized CI
+        - Databases in use: Cassandra and Solr
+        - Jenkins as containerized CI
         - Kubernetes with Docker Containers
+
+
     - role: Software Engineer Java/J2EE
       time: Mai 2017 - Aug. 2018
       company: Gai Netconsult GmbH, Berlin
       details: |
-        Development of software solutions for Healthcare buisnesses. Working with JBoss, Oracle DB,
+        Development of software solutions for healthcare buisnesses. Working with JBoss, Oracle DB,
         JSF with Primeface, Liquibase and Maven.
+
         My responsibilities were:
-          - Conzeption, realisation and integration of components and applications with JavaEE and web-technologies in an agile team.
+          - Conzeption, realisation and integration of components and applications with JavaEE and web-technologies
+        in an agile team.
           - Usage of methods like continuous integration, clean code and test driven development.
-          - Creation of requirement and feasibilty analysis in a strong exchange with the Customer
-          - integration into existing customers infrastructure
+          - Creation of requirement and feasibilty analysis in a strong exchange with the Product Owner
+          - Integration into existing customers infrastructure
+
+
     - role: Programmer
       time: Mar. 2013 - Feb 2017
       company: JuweloTV Deutschland GmbH, Berlin
       details: |
-        Juwelo is a broadcasting company selling jewellery over television and internet.
+        Juwelo is a broadcasting company selling jewellery over television and via e-commerce.
+
         My core tasks were:
-          - Creation of a new frontend applications in ActionsScript for internal processes
+          - Creation of a new frontend applications in ActionScript for internal processes
           - Support and extend of legacy code
-          - management and automation of releases.
+          - Management and automation of releases.
+
+
     - role: Developer
       time: Jan. 2011 - Feb. 2013
       company: Silver Style Studios GmbH, Berlin
       details: |
         Silver Style Studios created and run an MMORPG called "Herokon-Online" with a Flash frontend.
+
         My core tasks were:
           - Developing the game-client in Flex 4.7
           - Developing the game-services in Java
           - Extend and taking care of the MySQL database
+
+
     - role: Flash/Flex Developer
       time: Feb. 2009 - Dec. 2010
       company: cobra youth communication GmbH, Berlin
@@ -105,41 +121,51 @@ experiences:
         Cobra youth communication was a marketing company specialised in advertisement for kids and teens.
         When I was working for them there was a cooperation with a company called bettermarks which developed a
         online math learning plattform.
+
         I worked on the following projects:
           - Creation of a Flex-client for bettermarks.de
           - Realisation and redesign of the JetFriend website for Lufthansa
           - Working on a 3d-chatworld and a chat-admin-client
+
+
     - role: Flash-Developer
       time: Apr. 2008 - Feb. 2009
       company: eWave Interactive GmbH, Potsdam
       details: |
         EWave produced a prototype for a multiplatform community.
+
         My core tasks were:
           - Developing of a game-community site
           - Developing a user client in ActionScript 3.0
           - Create and test of UI-components
-          - connect the client with a server-interface
+          - Connect the client with a server-interface
           - Qualityassurance of own and others creations
+
+
     - role: Developer (Intern)
       time: Aug. 2006 - Sep. 2007
       company: Elocom Mobile Entertainment GmbH, Schlederhausen
       details: |
         Elocom was a company owned by Jamba and developed mobile Games for J2ME, Windows, Blackberry, Symbian and
         Brew supported phones.
+
         I was a intern and created my diploma thesis while working for Elocom.
+
         My work there includes:
-          - creation of the mobile game "Magnum P.I."
-          - optimising graphics for mobile use.
-          - technical conception of the mobile game "E.T. Der Ausserirdische"
+          - Creation of the mobile game "Magnum P.I."
+          - Optimising graphics for mobile use.
+          - Technical conception of the mobile game "E.T. Der Ausserirdische"
+
+
     - role: Level-scripting (Intern)
       time: Apr. 2004 - Sep. 2004
       company: Silverstyle-Entertainment e.K., Berlin
       details: |
-        I helped to create levels for the PC game "The Fall - Last days of Gaia"
+        I helped to create levels for the PC game "The Fall - Last days of Gaia".
+
         My core tasks were:
           - Realisation of level-concepts in Python
           - Checking of levels for errors and consistency
-
 
 
 skills:
@@ -152,11 +178,11 @@ skills:
       - name: Javascript & TypeScript
         level: 80%
 
-      - name: Python
-        level: 50%
-
       - name: HTML5 & CSS
         level: 60%
+
+      - name: Python
+        level: 50%
 
       - name: Gradle
         level: 60%
