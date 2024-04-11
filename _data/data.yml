@@ -57,22 +57,23 @@ education:
 experiences:
     - role: Full stack Developer
       time: Aug. 2018 - Present
-      company: Metronom GmbH, Berlin
+      company: Metronom GmbH / METRO Digital GmbH, Berlin
       details: |
-        Developing inhouse products for Metro AG.
+        Developing in-house products for Metro AG.
 
-        Most of the time I work for a project to create a customer support solution. Providing callcenter agents with
-        enough information to quickly delegate the customers problems.
-
+        Working for different teams in the domain of salesmanagers and customer Support. 
+        Creating products to support Salesmanagers getting knowledge about the customers 
+        and planning their work.
         Working in an agile team trying out Scrumban, Scrum and Kanban.
 
         Using the following technologies:
         - Frontend with React in TypeScript
-        - Backend microservices developed with Java and using Spring.
+        - Backend microservices developed with Java and Kotlin and using Spring.
         - Some services in Python
-        - Databases in use: Cassandra and Solr
-        - Jenkins as containerized CI
+        - Databases in use: PostgrSQL, Cassandra and Solr
+        - Different CI/CD services, latest GitHub-Workflows  
         - Kubernetes with Docker Containers
+        - Google Cloud Products: Dataflow, Composer, BigQuery
 
 
     - role: Software Engineer Java/J2EE
